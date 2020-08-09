@@ -6,7 +6,7 @@ var volume = document.getElementById("volume")
 var volumeOn = true
 
 function newgameFunc(){
-    window.location = '/'
+    window.location = '/Snake-Game/'
     // alert('Hello world');
 }
 function cancelFunc(){
